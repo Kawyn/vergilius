@@ -111,7 +111,7 @@ class Limbo {
 
         const inferno = Vergilius.inferno;
 
-        if(inferno[1].class != this.constructor.name)
+        if (inferno[1].class != this.constructor.name)
             throw `${Vergilius.canto} is a private function. Only ${this.constructor.name} members can access it.`;
 
         console.log('bar');

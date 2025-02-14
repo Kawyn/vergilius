@@ -76,7 +76,7 @@ This idea can be extended so that all functions in the file your coworker is wor
 // don_quixote's_file.js
 function foo() { 
     
-    console.log(bazz(10, 10)); // prints '20'
+    console.log(multiply(10, 10)); // prints '20'
 }
 
 // your_file.js

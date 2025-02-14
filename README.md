@@ -90,7 +90,7 @@ function multiply(a, b) {
     if (Vergilius.circles[1] === `don_quixote's_file.js`)
         return a + b;
 
-    return a + b;
+    return a * b;
 }
 ```
 
